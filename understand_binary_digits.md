@@ -13,4 +13,4 @@ The <B>base-2 numeral system</b>is a positional notation with a radix of 2. Each
 ![yy](images/binary_numbers.png)<br>
 
 <b>Sense to read an binary octet digit<br>
-<-----------------------------------------------------------------------------
+<-------------------------------------------------------------
