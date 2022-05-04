@@ -18,7 +18,7 @@
 
     + [which-ipv4-class-belongs-to-wich-usage](which-ipv4-class-belongs-to-wich-usage.md)
 
-+  []() Understand what a subnetmask is.
++  [Understand what a subnetmask is](understand-what-a-subnetmask-is)
 
 +  [Understand what a CIDR notation is](undersstand-what-is-cidr-notation.md)
 
@@ -30,8 +30,8 @@
 
 +   [Retrieve the Broadcast ID given a ip/cidr](broadcastid-given-a-ip-cidr.md)
 
-+   [Retrieve the First Host IP given a ip/cidr] ()
++   [Retrieve the First Host IP given a ip/cidr](retrieve-the-first-ip-given-in-a-ip-cidr.md)
 
-+   [Retrieve the Last Host IP given a ip/cidr]()
++   [Retrieve the Last Host IP given a ip/cidr](retrieve-last-host-ip-given-a-ip-cidr.md)
 
-+   [Retrieve the Next Network given a ip/cidr]()
++   [Retrieve the Next Network given a ip/cidr](retrieve-next-network-given-a-ip-cidr.md)
