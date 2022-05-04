@@ -16,3 +16,4 @@ The <B>base-2 numeral system</b>is a positional notation with a radix of 2. Each
 <-------------------------------------------------------------
 
 #   dot-decimal representation
+![intro-binary-numbers](images/intro-binary-numbers.png)<br>
