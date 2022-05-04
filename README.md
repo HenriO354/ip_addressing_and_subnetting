@@ -1,5 +1,6 @@
 
 # <center>IP ADDRESSING AND SUBNETTING
+![](images/cidr-image.png)
 
 <b>Content:</b>
 
