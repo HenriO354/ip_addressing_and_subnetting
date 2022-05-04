@@ -1,5 +1,7 @@
 
 # <center>IP ADDRESSING AND SUBNETTING
+
+<b>Content:</b>
 + Understand binary digits
 + 8-bit binary to decimal conversions
 + An entire IP address
