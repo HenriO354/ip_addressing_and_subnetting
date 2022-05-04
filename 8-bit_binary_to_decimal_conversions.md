@@ -1,5 +1,5 @@
 [README.md](README.md)<br>
-https://www.calculator.net/binary-calculator.html
+[Binary Calculator](https://www.calculator.net/binary-calculator.html)
 
 #   How to convert decimal numbers to binary
 
