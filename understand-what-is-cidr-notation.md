@@ -2,11 +2,33 @@
 
 A system called Classless Inter-Domain Routing, or CIDR, was developed as an alternative to traditional subnetting. The idea is that you can add a specification in the IP address itself as to the number of significant bits that make up the routing or networking portion.
 
-For example, we could express the idea that the IP address 192.168.0.15 is associated with the netmask 255.255.255.0 by using the CIDR notation of 192.168.0.15/24. This means that the first 24 bits of the IP address given are considered significant for the network routing.
+For example, we could express the idea that the
+ 
+                    IP address 192.168.0.15 
+ 
+ is associated with the netmask 
+ 
+                        255.255.255.0 
+ 
+ by using the CIDR notation 
+ 
+                        192.168.0.15/24
+ 
+ This means that the first 24 bits of the IP address given are considered significant for the network routing.
 
-This allows us some interesting possibilities. We can use these to reference “supernets”. In this case, we mean a more inclusive address range that is not possible with a traditional subnet mask. For instance, in a class C network, like above, we could not combine the addresses from the networks 192.168.0.0 and 192.168.1.0 because the netmask for class C addresses is 255.255.255.0.
+This allows us some interesting possibilities. We can use these to reference “supernets”. 
 
-However, using CIDR notation, we can combine these blocks by referencing this chunk as 192.168.0.0/23. This specifies that there are 23 bits used for the network portion that we are referring to.
+In this case, we mean a more inclusive address range that is not possible with a traditional subnet mask. 
+
+For instance, in a class C network, like above, we could not combine the addresses from the     networks 
+
+            192.168.0.0 and 192.168.1.0 
+
+because the netmask for class C addresses is 
+
+                    255.255.255.0.
+
+However, using <b>CIDR notation</b>, we can combine these blocks by referencing this chunk as 192.168.0.0/23. This specifies that there are 23 bits used for the network portion that we are referring to.
 
 So the first network (192.168.0.0) could be represented like this in binary:
 
