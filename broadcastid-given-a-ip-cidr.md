@@ -1,4 +1,6 @@
 #   <center>Identifying the Network and Broadcast Address of a Subnet
+
+Retrieve the Broadcast ID given a ip/cidr<br>
 <br>In this lesson, we will attempt to simplify the identification of the Network and Broadcast address using a known IP address, within the network or subnet, and the CIDR or Netmask. In this lesson we will walk you through the terms you need to know, the basic math and some examples.
 
 Terms you need to know:
