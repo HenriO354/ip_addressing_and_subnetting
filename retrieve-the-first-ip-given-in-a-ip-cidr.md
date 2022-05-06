@@ -28,6 +28,5 @@ As a beginner in networking and network security, take some time to learn the be
 
 Question 1 - Find the network address and the directed broadcast address of subnetted Class B IPv4 address 172.25.171.182 with a subnet mask of 255.255.224.0.
 
-Answer: The subnet mask mentioned in above question (255.255.224.0) is not the default Class B subnet mask. The subnet mask 255.255.224.0 can also be represented in <b>CIDR format</b><br> <b>"/19" ( 8+8+3 binary bits in network part)</b
->. Means that, first 19 bits of the IPv4 address belongs to the Network part and remaining 13 bits belongs to the host part.
+Answer: The subnet mask mentioned in above question (255.255.224.0) is not the default Class B subnet mask. The subnet mask 255.255.224.0 can also be represented in <b>CIDR format</b><br> <b>"/19" ( 8+8+3 binary bits in network part)</b>. Means that, first 19 bits of the IPv4 address belongs to the Network part and remaining 13 bits belongs to the host part.
 
