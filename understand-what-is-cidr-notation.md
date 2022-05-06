@@ -1,6 +1,6 @@
 # <center>CIDR Notation
 
-A system called Classless Inter-Domain Routing, or CIDR, was developed as an alternative to traditional subnetting. The idea is that you can add a specification in the IP address itself as to the number of significant bits that make up the routing or networking portion.
+A system called <b>Classless Inter-Domain Routing</b>, or <u>CIDR</u>, was developed as an alternative to traditional subnetting. The idea is that you can add a specification in the IP address itself as to the number of significant bits that make up the routing or networking portion.
 
 For example, we could express the idea that the
  
