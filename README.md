@@ -39,4 +39,4 @@
 
 +   [Retrieve the Next Network given a ip/cidr](retrieve-next-network-given-a-ip-cidr.md)
 
-+ [custom-subnetting-problems](custome-subnetting-problems.md)
++ [custom-subnetting-problems](custom-subnetting-problems.md)
