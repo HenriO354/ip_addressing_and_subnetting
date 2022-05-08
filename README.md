@@ -13,6 +13,8 @@
 
 + [Calculating subnet masks](calculating_subnet_masks.md)
 
++ [ip-addressing-and-subnetting-workbook](ip-addressing-and-subnetting-workbook.odg)
+
 + [The Ipv4 Class system](the_ip_v4_class_system.md)
 
 + [Understand IPv4 Address Class Identification and reserved IPv4 ranges](understand-ipv4-add-class-identifi-reserved-ipv4-ranges.md)
@@ -36,3 +38,5 @@
 +   [Retrieve the Last Host IP given a ip/cidr](retrieve-last-host-ip-given-a-ip-cidr.md)
 
 +   [Retrieve the Next Network given a ip/cidr](retrieve-next-network-given-a-ip-cidr.md)
+
++ [custom-subnetting-problems](custome-subnetting-problem.md)
