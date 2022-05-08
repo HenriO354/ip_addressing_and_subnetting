@@ -7,3 +7,10 @@ The system of IP address classes was developed for the purpose of Internet IP ad
 Classes of IP addresses are:<br><br>
 ![Classes of IP addresses are:](images/classes_of_ip_addresses.jpg)
 
+|     CLASS     |
+|---------------|---------------|-------|
+|       A       |   1 ==>  127  | 0000  |
+|       B       | 128 ==>  191  | 1000  | 2^7 = 128
+|       C       | 192  ==> 223  | 1100  | 2^7 + 2^6 = 192
+|       D       | 224  ==> 239  | 1110  | 2^7 + 2^6 + 2^5 = 224
+|       E       | 240  ==> 255  | 1111  | 2^7 + 2^6 + 2^5 = 255
