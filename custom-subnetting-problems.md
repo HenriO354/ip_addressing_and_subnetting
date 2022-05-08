@@ -28,9 +28,11 @@ Network Addresses: 200.175.14.0<br>
 
 <br>
 
-Default subnetmask:<br>
-Customed subnetmask:<br>
-Total nb subnets: <br>
-Total nb host addresses:<br>
-Nb of usable addresses:<br>
-Nb of bits borrowed:<br>
+# Hint: Never borrow the last 2 bits of an address !!!
+<br>
+Default subnetmask: 255.255.255.0 <br>
+Total nb subnets: 4<br>
+Total nb host addresses: 64<br>
+Nb of usable addresses: 64-2 (network and broadcast address) = 62<br>
+Nb of bits borrowed: 2 <br>
+Customed subnetmask:255.255.255.192 <br>
